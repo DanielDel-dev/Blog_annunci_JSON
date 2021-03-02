@@ -1,0 +1,296 @@
+[
+    {
+        "id":1,
+        "jNome": "Huawei X5",
+        "category": "Elettronica",
+        "jPrezzo": "120.12"
+    },
+    {
+        "id": 2,
+        "jNome": "Fiat 500",
+        "category": "Motori",
+        "jPrezzo": "2000.32"
+    },
+    {
+        "id": 3,
+        "jNome": "Mazza da Baseball",
+        "category": "Sport",
+        "jPrezzo": "20.15"
+    },
+    {
+        "id": 4,
+        "jNome": "Bilocale",
+        "category": "Immobili",
+        "jPrezzo": "30000.54"
+    },
+    {
+        "id": 5,
+        "jNome": "Felpa usata",
+        "category": "Abbigliamento",
+        "jPrezzo": "10.42"
+    },
+    {
+        "id": 6,
+        "jNome": "Divani due posti",
+        "category": "Arredamento",
+        "jPrezzo":"400.64"
+    },
+    {
+        "id": 7,
+        "jNome": "Pala",
+        "category": "Giardinaggio",
+        "jPrezzo":"30.45"
+    },
+    {
+        "id": 8,
+        "jNome": "Master of Pupo",
+        "category": "Musica",
+        "jPrezzo": "15.64"
+    },
+    {
+        "id": 9,
+        "jNome": "TV Samsung",
+        "category": "Elettronica",
+        "jPrezzo": "230.42"
+    },
+    {
+        "id": 10,
+        "jNome": "Ford Puma",
+        "category": "Motori",
+        "jPrezzo": "5000.02"
+    },
+    {
+        "id": 11,
+        "jNome": "Pallone da calcio",
+        "category": "Sport",
+        "jPrezzo": "30.12"
+    },
+    {
+        "id": 12,
+        "jNome": "Trilocale",
+        "category": "Immobili",
+        "jPrezzo": "55000.54"
+    },
+    {
+        "id": 13,
+        "jNome": "Sciarpa scolorita",
+        "category": "Abbigliamento",
+        "jPrezzo": "5.23"
+    },
+    {
+        "id": 14,
+        "jNome": "Lampada",
+        "category": "Arredamento",
+        "jPrezzo": "70.65"
+    },
+    {
+        "id": 15,
+        "jNome": "Concime",
+        "category": "Giardinaggio",
+        "jPrezzo": "2.45"
+    },
+    {
+        "id": 16,
+        "jNome": "Basso nuovo",
+        "category": "Musica",
+        "jPrezzo": "300.62"
+    },
+    {
+        "id": 17,
+        "jNome": "Cuffie Sony",
+        "category": "Elettronica",
+        "jPrezzo": "120.65"
+    },
+    {
+        "id": 18,
+        "jNome": "Ducati Monster",
+        "category": "Motori",
+        "jPrezzo": "5000.13"
+    },
+    {
+        "id": 19,
+        "jNome": "Pattini",
+        "category": "Sport",
+        "jPrezzo": "90.64"
+    },
+    {
+        "id": 20,
+        "jNome": "Villetta triste",
+        "category": "Immobili",
+        "jPrezzo": "2500.45"
+    },
+    {
+        "id": 21,
+        "jNome": "Guanti invernali",
+        "category": "Abbigliamento",
+        "jPrezzo": "22.04"
+    },
+    {
+        "id": 22,
+        "jNome": "Scrivania in vetro",
+        "category": "Arredamento",
+        "jPrezzo": "100.63"
+    },
+    {
+        "id": 23,
+        "jNome": "Secchio",
+        "category": "Giardinaggio",
+        "jPrezzo": "3.00"
+    },
+    {
+        "id": 24,
+        "jNome": "Compilation Pupo",
+        "category": "Musica",
+        "jPrezzo": "1.00"
+    },
+    {
+        "id": 25,
+        "jNome": "Auricolari Sennheiser",
+        "category": "Elettronica",
+        "jPrezzo": "12.00"
+    },
+    {
+        "id": 26,
+        "jNome": "Fiat 300",
+        "category": "Motori",
+        "jPrezzo": "2560.42"
+    },
+    {
+        "id": 27,
+        "jNome": "Set mazze da golf",
+        "category": "Sport",
+        "jPrezzo": "320.43"
+    },
+    {
+        "id": 28,
+        "jNome": "Posto augo",
+        "category": "Immobili",
+        "jPrezzo": "2200.63"
+    },
+    {
+        "id": 29,
+        "jNome": "Zaino Decathlon",
+        "category": "Abbigliamento",
+        "jPrezzo": "55.55"
+    },
+    {
+        "id": 30,
+        "jNome": "Comodino",
+        "category": "Arredamento",
+        "jPrezzo": "210.12"
+    },
+    {
+        "id": 31,
+        "jNome": "Rastrello",
+        "category": "Giardinaggio",
+        "jPrezzo": "5.62"
+    },
+    {
+        "id": 32,
+        "jNome": "Compilation Nino D'Angelo",
+        "category": "Musica",
+        "jPrezzo": "1.91"
+    },
+    {
+        "id": 33,
+        "jNome": "IPhone X",
+        "category": "Elettronica",
+        "jPrezzo": "1300.41"
+    },
+    {
+        "id": 34,
+        "jNome": "Nissan Juke",
+        "category": "Motori",
+        "jPrezzo": "10000.00"
+    },
+    {
+        "id": 35,
+        "jNome": "Guanti da palestra",
+        "category": "Sport",
+        "jPrezzo": "11.54"
+    },
+    {
+        "id": 36,
+        "jNome": "Villa",
+        "category": "Immobili",
+        "jPrezzo": "300000.00"
+    },
+    {
+        "id": 37,
+        "jNome": "Scarpe Nike",
+        "category": "Abbigliamento",
+        "jPrezzo": "30.00"
+    },
+    {
+        "id": 38,
+        "jNome": "Poltrona",
+        "category": "Arredamento",
+        "jPrezzo": "420.66"
+    },
+    {
+        "id": 39,
+        "jNome": "Semi",
+        "category": "Giardinaggio",
+        "jPrezzo": "4.43"
+    },
+    {
+        "id": 40,
+        "jNome": "Biglietto Gods Of Metal",
+        "category": "Musica",
+        "jPrezzo": "150.65"
+    },
+    {
+        "id": 41,
+        "jNome": "Macbook Pro",
+        "category": "Elettronica",
+        "jPrezzo": "1500.00"
+    },
+    {
+        "id": 42,
+        "jNome": "Dacia Duster",
+        "category": "Motori",
+        "jPrezzo": "8000.00"
+    },
+    {
+        "id": 43,
+        "jNome": "Canoa",
+        "category": "Sport",
+        "jPrezzo": "200.00"
+    },
+    {
+        "id": 44,
+        "jNome": "Cantina",
+        "category": "Immobili",
+        "jPrezzo": "25000.12"
+    },
+    {
+        "id": 45,
+        "jNome": "Jeans",
+        "category": "Abbigliamento",
+        "jPrezzo": "10.00"
+    },
+    {
+        "id": 46,
+        "jNome": "Lampadario",
+        "category": "Arredamento",
+        "jPrezzo": "25.00"
+    },
+    {
+        "id": 47,
+        "jNome": "Trattore",
+        "category": "Giardinaggio",
+        "jPrezzo": "12000.00"
+    },
+    {
+        "id": 48,
+        "jNome": "Plettro",
+        "category": "Musica",
+        "jPrezzo": "0.99"
+    },
+        {
+            "id": 49,
+            "jNome": "Modem",
+            "category": "Altro",
+            "jPrezzo": "2.99"
+        }
+]

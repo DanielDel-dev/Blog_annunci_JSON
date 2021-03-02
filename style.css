@@ -1,0 +1,148 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+    outline: 0;
+}
+
+
+:root{
+    --main-color:#ef6c00;
+    --second-color:#fb8c00;
+    --color-accent:#035E7B;
+    --color-opacity:#fb8a0025;
+}
+
+h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+hr{
+  background-color: var(--second-color);  
+}
+
+.list-group-item{
+    border: none;
+}
+
+.text-main{
+    color: var(--main-color);
+}
+
+.text-second{
+    color: var(--second-color);
+}
+
+.text-accent{
+    color: var(--color-accent) !important;
+}
+
+.bg-main{
+    background-color: var(--main-color);
+}
+
+.bg-second{
+    background-color: var(--second-color);
+}
+
+.bg-accent{
+    background-color: var(--color-accent);
+}
+
+.bg-opacity{
+    background-color: var(--color-opacity);
+}
+
+.border-custom{
+    border: 1px solid;
+    color: var(--main-color);
+}
+
+.scroll-bar-custom{
+    background-color:rgba(255, 255, 255, 0.87);
+}
+
+.container-start{
+    height: 100vh;
+}
+
+.container-start-user{
+    height: 200px;
+    background-color: #fb8a0025;
+}
+
+.container-mobile{
+    background: var(--color-opacity);
+}
+
+
+.link-custom{
+    border-bottom:1px solid transparent;
+    border-top:1px solid transparent;
+
+}
+
+.link-custom:hover{
+    border-bottom:1px solid var(--main-color);
+    border-top:1px solid var(--main-color);
+}
+
+.bg-image {
+    background-image: url('./media/Black\ Friday\ Sale.svg');
+    background-size: cover;
+    background-position: center;
+  }
+
+  .card-category{
+     
+  }
+
+  .btn-custom{
+      background: linear-gradient( var(--second-color)20%, var(--main-color)50%);
+  }
+
+
+  .btn-custom-accent{
+    background: var(--color-accent);
+    
+}
+
+.slick-prev:before, .slick-next:before {
+    font-family: 'slick';
+    font-size: 20px;
+    line-height: 1;
+    opacity: .75;
+    color: var(--main-color);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.sticky-filtri{
+    position: sticky; 
+    top: 100px;
+}
+
+.custom-control-input:checked~.custom-control-label::before {
+    color: var(--color-accent);
+    border-color: var(--color-accent);
+    background-color: var(--main-color);
+
+}
+
+.levitate-top{
+    position: relative;
+    bottom: 0px;
+    transition: all 0.5s;
+}
+
+.levitate-top:hover{
+    position: relative;
+    bottom: 30px;
+}
+
+.reg-form{
+    position: fixed;
+    left: 2000px;
+    overflow: hidden;
+    transition: all 1s;
+
+}
