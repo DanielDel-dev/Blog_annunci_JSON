@@ -17,7 +17,7 @@ fetch("./data.json")
       
       
       
-      // funzione per popolare le categorie
+      // funzione per popolare le categorie 
       
       function popolaCategorieFiltrate(dataInput){
         let categoria = Array.from(new Set(data.map(el => el.category))).sort()
@@ -160,7 +160,7 @@ fetch("./data.json")
       
     })
     
-    
+    //chiusura
   
 
     
